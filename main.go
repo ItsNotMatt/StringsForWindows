@@ -70,6 +70,9 @@ func parseFile(content string, writeToFile bool) []string {
     addToStrings := false
 
     for _, c := range chars {
+        if unicode.IsSpace(c) {
+            continue
+        }
         if unicode.IsLetter(c) {
             tempChars = append(tempChars, c)
             validSequenceCount++
@@ -82,6 +85,9 @@ func parseFile(content string, writeToFile bool) []string {
             tempChars = nil
             validSequenceCount = 0
             addToStrings = false
+        } else {
+            tempChars = nil
+            validSequenceCount = 0
         }
     }
     return strings

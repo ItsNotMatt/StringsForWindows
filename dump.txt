@@ -1,1140 +1,1808 @@
-mark 1
-subsystem 3
-uHPH 2
-pargc 2
-secs 1
-gccregister 1
-HDmH 1
-Hvtu 1
-UXTUNE 1
-loader 1
-YYYY 1
-PSHUFB 1
-newmode 3
-PARTS 2
-ilstart 1
-aXTUNE 1
-Hstrncmp 1
-dtor 3
-enum 1
-tHeA 1
-loss 2
-PROEPILOGUES 1
-YXTUNE 1
-dllcharacteristics 1
-wenviron 1
-ADDP 1
-file 32
-CRTXLZH 1
-fHYf 1
-HIuËB 1
-float 2
-LEAFOR 1
-tobe 1
-tGetLastError 1
-AVXOPTIMAL 2
-BYPIECES 4
-wTHHc 1
-march 1
-FALSE 2
-DVSH 1
-PADSHORT 1
-JiPx 1
-lʆچJ 1
-small 1
-lapa 1
-pBpb 1
-BBȀp 1
-hascctor 1
-IsNonwritableInCurrentImage 1
-timezone 3
-heap 1
-Float 4
-gpesect 1
-part 1
-liblibapi 16
-tCHH 1
-HeHH 1
-SOFLAGS 1
-SHIFT 1
-HfLL 1
-HHuH 2
-EMIT 1
-head 9
-endstdio 1
-CRTXLC 1
-rtext 1
-LDLL 1
-DLDI 2
-Mgcrtexe 1
-ctext 10
-HfHH 1
-InitializeCriticalSection 1
-pqxq 1
-intlong 2
-Ngcrt 1
-Pidata 4
-HDXH 1
-HORH 1
-zuDB 1
-hHHH 1
-crtxl 1
-ALUAND 1
-USEGATHER 3
-ptrCTOR 1
-jgtlsmcrt 1
-HDDP 1
-cexit 1
-invalid 2
-SSESPLIT 1
-bssidata 65
-remove 1
-size 5
-xcaconfigure 1
-daylight 3
-OOfno 1
-SSELOAD 1
-rtpsrelocs 3
-native 6
-mingwthr 3
-list 2
-HTHH 1
-HDHf 1
-INSTALL 3
-impabort 1
-cBwtext 1
-dowildcard 3
-HuLH 1
-atpout 1
-xxxx 1
-REGCONVERTS 1
-pseudo 4
-FLAG 1
-ppdata 1
-report 1
-xWAH 1
-DOUBLE 3
-minor 1
-ADJUST 1
-FAST 1
-Dpdata 1
-FindPESectionExec 1
-Mingw 1
-pruntime 1
-vfwprintf 3
-LIMIT 1
-tznames 1
-REGDEPENDENCY 2
-pidata 6
-Hidata 4
-msnative 1
-BPBR 1
-tOPS 1
-string 1
-FUNCTION 1
-GENERAL 1
-Hfile 3
-relocator 1
-PEde 1
-LOtA 1
-REGFP 1
-EXPAND 1
-fthunk 7
-HPAH 1
-LHLH 1
-ofrange 1
-XCZCRT 1
-LcBI 1
-cmain 1
-DECODE 1
-bgtlsthrd 1
-dtors 2
-gHHH 1
-LLrP 1
-POPX 2
-USEBT 1
-ltext 1
-force 9
-GetSectionCount 1
-with 1
-intshort 2
-IMUL 3
-Xtext 1
-Qgfake 1
-laimp 4
-lasection 1
-fIHL 1
-tHdH 1
-fffATUWVSH 1
-Ldata 1
-setinvalid 1
-HHwH 1
-error 5
-vfprintf 6
-maxSections 1
-impsetusermatherr 1
-pPpGCC 1
-SOFTWARE 1
-FindPESection 1
-strlocal 1
-Hppp 1
-VirtualProtect 2
-char 3
-gtlssup 1
-DJLu 1
-wwvs 1
-uHfL 1
-BfEH 1
-Xupcalloc 1
-HDxt 1
-LeaveCriticalSection 2
-hlibgcc 1
-gfake 14
-ptzset 1
-jlsignal 1
-runkey 1
-local 1
-fEHD 1
-PREFETCHING 1
-STRING 1
-gpseudo 1
-impcalloc 1
-BXTUNE 1
-lend 1
-Btext 1
-raise 1
-glibgcc 1
-HfMZu 2
-چJXd 1
-calloc 1
-gmerr 1
-dllmain 1
-HPaf 1
-ApPw 1
-JUMP 1
-CRTXIAA 1
-HLHp 1
-HHHq 1
-jLWH 1
-impacrt 1
-VBff 1
-EnterCriticalSection 2
-strlen 2
-tlsend 1
-pУPp 1
-EXTCONSTANTS 1
-wasinit 1
-DLLhH 1
-HLuH 1
-sehucrt 4
-module 3
-start 7
-HHlUW 1
-pwargv 2
-EXTUNE 1
-PREFIX 1
-xidata 6
-MINGW 3
-juiH 1
-Unknown 1
-PREFIXES 1
-bssH 1
-HcPH 2
-XADD 1
-tmainCRTStartup 1
-DHLHc 1
-tLffA 1
-READ 2
-cTtT 1
-unsigned 5
-OPTIMAL 5
-LIST 16
-HqDH 1
-tHCH 1
-HЁPE 1
-USEXCHGB 1
-Dxiz 1
-refptr 50
-thevalue 1
-penviron 2
-argv 8
-NOTVECTORMODE 1
-intix 1
-DEST 1
-REPMOVSB 1
-IMMMEM 1
-eXTUNE 1
-complex 5
-gnuexception 3
-LdpD 2
-protocol 1
-HaLa 1
-aaae 1
-xÐHH 1
-printf 1
-imptzname 1
-xizrdata 1
-atquick 2
-fmode 4
-xczrdata 1
-impstdio 2
-HqCf 1
-xxapi 1
-JjwX 1
-aHxc 1
-crtxi 2
-QHuH 1
-tAPH 1
-common 6
-bssF 1
-HHuX 1
-UAWAVAUATWVSH 1
-Wproject 1
-math 1
-PROLOGUE 1
-LAST 2
-xfile 1
-Pfree 1
-HHHe 1
-pfmode 2
-crtenvironment 3
-tXTUNE 1
-laRUNTIME 1
-initltsdyn 3
-impEnterCriticalSection 1
-pcinit 1
-impcrt 2
-sgYuKgg 1
-cfile 1
-XCACRT 1
-MZLThis 1
-TLOSS 1
-BBPB 1
-VZEROUPPER 1
-HGXH 1
-EPILOGUE 1
-crtstring 2
-pbdata 1
-tlsreloc 1
-LHLA 1
-IcPL 1
-CXTUNE 1
-bgcygming 1
-HHHH 5
-Address 1
-vdaha 1
-gcygming 1
-BSWAP 1
-cValidateImageBase 1
-YYYp 1
-qPqI 1
-Pbss 1
-zzzdo 1
-lpdata 2
-HatsH 1
-FIOP 2
-FORFP 1
-PREDICTION 1
-names 1
-PHHP 1
-setnew 2
-dddd 4
-fpreset 1
-VirtualQuery 3
-FOUR 1
-cihgbl 1
-crtxp 2
-inDOS 1
-gLeD 1
-HHHXH 1
-NTfD 1
-fnostack 1
-lenvp 1
-mainCRTStartup 1
-format 2
-MAPE 1
-tlsfile 1
-rgtext 1
-abbrev 2
-HPEt 1
-QXTUNE 1
-endrefptr 2
-HLDH 1
-WRITE 1
-Bgfake 1
-IATend 1
-wargv 1
-impSleep 1
-uAHI 1
-World 1
-QIMODE 2
-Pdata 8
-HQff 1
-AVOID 8
-ZXTUNE 1
-HtHH 1
-xaaa 1
-ЁPEtfH 1
-uHfMZu 1
-section 2
-yDdl 1
-ctors 3
-argc 2
-zHHH 1
-HKHS 1
-LEfA 1
-free 1
-zYjY 1
-GLCX 1
-MEMOPND 2
-HÐZZ 1
-OVERFLOW 1
-represented 1
-PROMOTE 4
-config 2
-impstrlen 1
-impTlsGetValue 1
-cdHW 1
-HHTt 1
-ZZZY 1
-KXTUNE 1
-commit 2
-tlsindex 1
-BTBF 1
-TtAA 1
-gnewmode 1
-gusermatherr 1
-vUQH 1
-rHLu 1
-xposix 5
-MZuHcQ 1
-HELD 1
-apims 5
-Txfile 1
-version 5
-USEINCDEC 1
-gucrt 3
-HzHt 1
-NHDL 1
-xxUnknown 1
-gxtxtmode 1
-IMMX 1
-build 4
-impset 3
-MHbH 1
-APEt 1
-Pmemcpy 1
-imponexit 1
-HHXE 1
-bitsize 1
-handler 13
-UNIT 3
-REGS 3
-HADDPD 1
-NOTUNPAIRABLE 1
-pgfake 1
-xcardata 1
-impC 1
-LgHL 1
-xmemcpy 1
-REGSTALL 2
-bssCRT 1
-impGetLastError 1
-image 2
-HtHt 1
-fgHH 1
-VXTUNE 1
-CRTMT 3
-DEfE 1
-crtstdio 3
-PSEUDO 8
-Pgfake 1
-Argument 1
-wide 6
-FMACHAINS 2
-tlsZZZ 1
-ZERO 1
-uɅiH 1
-uHVL 1
-LHLfA 1
-ldll 8
-tune 1
-NXTUNE 1
-HINTS 1
-xdata 10
-HIWVSH 1
-PLOSS 1
-ford 1
-pVirtualProtect 1
-Htext 1
-endn 1
-ENDimp 3
-commode 3
-gccderegister 1
-impsignal 1
-LrHH 1
-PSTHello 1
-PADRETURNS 1
-FXTUNE 1
-osversion 2
-fEIT 1
-WITH 2
-setapp 1
-dtext 1
-QHHQ 1
-hbpE 1
-OPTAGU 1
-Tfile 2
-endxi 1
-crtruntime 2
-HHAu 1
-uJfx 1
-Xabort 1
-MFENCE 1
-cannot 1
-alHf 1
-USEHIMODE 1
-AVXSTORE 2
-uBPH 1
-initenv 1
-abss 1
-IIIX 1
-mainret 1
-Mlendw 1
-bssxdata 7
-thHH 1
-ZYJY 1
-SSESPILL 1
-HIMODE 2
-keydtor 1
-AuHH 1
-ҹHHt 1
-BXARCH 1
-srcgcc 4
-xbss 1
-debug 10
-THLoj 1
-HHDH 2
-LDHW 1
-BYTE 1
-HHtҹ 1
-EHDH 2
-USEVECTOR 2
-cpxtext 1
-relocation 3
-startinfo 1
-dXTUNE 1
-gccx 4
-HÐHÐ 1
-mAHL 1
-MZuMcC 1
-protector 1
-ȃHHH 1
-ÐffSH 1
-gCRT 1
-cQvthe 1
-xczimp 1
-DAyq 1
-text 71
-isdll 3
-xizcrt 1
-idata 145
-wmingwthr 2
-fDfx 1
-LTrȅ 1
-fHÐVSH 1
-malloc 1
-RXTUNE 1
-crtheap 2
-atexit 3
-tpdata 1
-impinitialize 2
-info 2
-peiruntime 1
-TLScallback 1
-stdio 3
-ucrt 4
-init 6
-xiarefptr 1
-DZqÐ 1
-rHPR 1
-HAHc 1
-HxڄB 1
-SINGLE 4
-doglobal 1
-specific 1
-EHHA 1
-failed 2
-pwenviron 2
-SSEPARTIAL 3
-fpcfpreset 1
-pdata 16
-ÐPftEf 1
-HTXL 1
-CMOV 1
-gwildcard 1
-impfree 1
-MZuHcH 1
-rȅlʆ 1
-SCHEDULE 1
-fXTUNE 1
-dllapi 1
-ADDR 1
-IXTUNE 1
-startup 9
-HHfH 1
-LONG 1
-cXTUNE 1
-ngtest 1
-Jtext 1
-tHHt 1
-UPSP 1
-ACCUMULATE 1
-VECX 1
-cWpw 1
-endminor 2
-PftB 1
-Built 1
-indices 2
-PREFER 2
-impDeleteCriticalSection 1
-GÐVSH 1
-crtat 2
-CONV 1
-dyntls 5
-ataddress 1
-IATstart 1
-pcommode 2
-STORE 2
-cfprintf 1
-import 1
-DEfH 1
-ڄBLT 1
-precpp 1
-pLLxH 1
-double 4
-VDFREDUCTION 1
-gixarch 1
-HccH 1
-acrt 2
-MVIA 1
-liblibkernel 2
-AKHL 1
-PfEI 1
-range 1
-EtHP 1
-BHHH 1
-TlsGetValue 2
-gxncommod 1
-Xaaa 1
-MATH 3
-HHÐH 1
-ARGS 1
-JTHSleep 1
-commodep 1
-HtttN 1
-HsHc 1
-멐VSH 1
-LLDL 1
-XARCH 5
-ENDrdata 1
-HԈЃH 1
-DEPENDENCY 2
-DEPFOR 2
-bXTUNE 1
-Pdll 1
-eHHH 1
-VHLt 1
-Hfthunk 1
-hpxl 1
-Huff 1
-phas 1
-USEFFREEP 1
-HiPonexit 1
-pyielding 1
-pbss 1
-itpR 1
-oldexcpt 3
-ufHxaH 1
-SHwtL 1
-wincrt 5
-paOa 1
-initialize 4
-FANCY 1
-lock 3
-impfprintf 1
-TTDАH 1
-HrHL 1
-targeting 1
-Mmalloc 1
-hdata 2
-getoutput 2
-HHfD 1
-ÐVSH 1
-EuPt 1
-ThLD 1
-laSetUnhandledExceptionFilter 1
-configure 3
-PpȠР 1
-LOAD 2
-xtzset 1
-major 3
-иHtH 1
-quick 3
-nocona 1
-lidata 1
-builds 4
-xtext 1
-EPAP 1
-PARTIAL 3
-TUNE 8
-SSETYPELESS 1
-impp 7
-impstrncmp 1
-AHIH 1
-MZuLcB 1
-MOVES 4
-ainame 1
-gggO 1
-hhMd 1
-LuHH 1
-MOVX 1
-HCRT 1
-getmainargs 2
-Adata 1
-wgetmainargs 1
-alignment 2
-imptimezone 2
-reason 2
-crtxt 2
-fDZt 1
-tfyHcA 1
-ofsignificance 2
-FUSE 4
-HXTUNE 1
-UHHH 1
-PEtf 1
-IHHH 1
-lpArgument 1
-DHHt 1
-iobfunc 3
-LCPSTALL 1
-pfthunk 1
-gccconfig 1
-Ltext 1
-strdebug 2
-impat 1
-HpHQ 1
-BENEFICIAL 1
-UNROLL 2
-USEMOV 1
-CRTXLD 1
-impprintf 1
-THft 1
-LLHD 1
-BYPXOR 1
-cCmingw 1
-impamsg 1
-mode 3
-HDAA 1
-HLrH 1
-crtend 1
-HAHH 1
-MXTUNE 1
-pWaP 1
-zXEtext 1
-prec 1
-HtHT 1
-strncmp 1
-mswin 19
-SLOW 3
-qHpH 1
-JXTUNE 1
-initltssuo 3
-AVXSPLIT 1
-Hexit 1
-sHDc 1
-cHuH 1
-úHHt 1
-winitenv 2
-apptype 5
-gsignal 1
-OUTGOING 1
-wmingw 4
-tHMD 1
-gxLl 1
-OXTUNE 1
-cmatherr 1
-writable 1
-impwgetmainargs 1
-PCRT 1
-HYQH 1
-dEEp 1
-PUSH 3
-AAAW 1
-xuAt 1
-ÐHHH 1
-HLLh 2
-rBHr 1
-QIREGS 1
-IIGI 1
-impSetUnhandledExceptionFilter 1
-ddbit 1
-setusermatherr 3
-initltsdrot 3
-HhUD 1
-type 1
-HrII 1
-KDCL 1
-exit 7
-ilibgcc 1
-tHHH 1
-JLMr 1
-Pxlc 1
-apaa 1
-Dqxp 1
-tlsused 1
-tHHu 1
-Hufҹ 1
-icygwin 2
-ggccmain 1
-kDLI 1
-HHHw 1
-gcclibgcc 1
-FPCONVERTS 1
-didata 2
-ctor 1
-HfHz 1
-HDfy 1
-sins 1
-SSEUNALIGNED 2
-csinit 1
-impconfigure 2
-DHML 1
-DHHff 1
-INTER 3
-cprintf 1
-bssp 5
-HIFH 1
-DBLr 1
-FORCMOVE 1
-mingw 26
-tlregdtor 1
-amsg 1
-berun 1
-tAHA 1
-INTEGER 1
-BMIX 1
-tidata 2
-HUHD 1
-SHHH 1
-WVSH 2
-oSetUnhandledExceptionFilter 1
-xtPD 1
-tHtE 1
-hidata 4
-dfile 1
-rdata 27
-HAfH 1
-HHXYÐ 1
-crtxc 2
-domain 1
-MISMATCH 1
-imptzset 3
-tlsstart 2
-pxdata 2
-impdaylight 2
-dPxdata 1
-DDII 1
-QuHD 1
-MEMORY 2
-ggretval 1
-AVXMOVE 2
-CRTXLA 1
-SSEPACKED 1
-pxla 1
-invalidParameterHandler 1
-state 3
-ZIPP 1
-sehrev 1
-MOVE 4
-ONEIF 1
-CRTXCAA 1
-fDATUWVSH 1
-STALL 1
-DFMODE 1
-LDOsrc 1
-program 1
-ZZZZ 5
-sehposix 4
-larefptr 1
-HWLD 1
-Sleep 1
-impVirtualQuery 1
-flags 1
-ABSX 1
-fAxu 1
-DBLL 1
-gucrtbase 1
-addkey 1
-library 1
-environ 1
-VLHH 1
-SIGN 1
-SPLIT 2
-func 1
-HtAH 1
-BBBx 1
-ФGNU 1
-Ptext 3
-gnatstart 1
-SCmingw 2
-strmingw 1
-impmalloc 1
-PDDH 1
-bpPB 1
-STOSB 1
-FROM 1
-hpdp 1
-Ppdata 1
-register 1
-crtmath 2
-tEBO 1
-RELOC 8
-gmingw 2
-bssstart 1
-impInitializeCriticalSection 1
-LDrz 1
-jATUWVSH 1
-long 6
-XIAfile 1
-VECTOR 1
-hname 9
-msfwprintf 2
-IAPE 1
-XTUNE 66
-USESIMODE 1
-STRLEN 1
-CMPXCHG 2
-reloc 2
-CTOR 4
-RUNTIME 7
-frOh 1
-ImageBase 2
-global 1
-tfAx 1
-Kset 1
-tzname 5
-fPIC 1
-uPtf 1
-Theresult 1
-ÐQPH 1
-LLfD 1
-BRANCH 5
-TPcx 1
-MATHERR 3
-reserve 2
-HLuE 1
-noimage 1
-USECLTD 1
-STORES 1
-BWHҹ 1
-pTcX 1
-JSHt 1
-HHPX 1
-impcexit 1
-Overflow 1
-PaaDa 1
-lainame 8
-HHuL 1
-impinitenv 3
-ATUWVSH 1
-Partial 1
-byMinGW 1
-EXTEND 1
-impinitterm 1
-HttH 1
-DtAP 1
-GjHV 1
-core 1
-singularity 1
-signed 1
-csetargvP 1
-Xidata 4
-GNUAS 1
-pcppinit 1
-HAHf 1
-Cspecific 2
-fbuilding 1
-CONVERTS 3
-libgcc 10
-LXTUNE 1
-endimp 1
-HcHH 1
-THWI 1
-zInitializeCriticalSection 1
-parameter 3
-Eset 1
-crtprivate 3
-aPxd 1
-pxAv 1
-HtPH 1
-AfDSH 1
-DTOR 3
-initialized 1
-CMPAND 3
-XIZCRT 1
-stUserMathErr 1
-BPBN 1
-tPuX 1
-ЁPEt 1
-intint 2
-LHLu 1
-bssP 6
-lrdata 1
-managedapp 1
-WXTUNE 1
-PqPabort 1
-tDHH 1
-CStH 1
-PPapi 1
-DXTUNE 1
-pppp 1
-rtvrev 4
-PYuH 1
-gcinitexe 1
-ofheap 2
-endnative 1
-HQHc 1
-Yexit 1
-KERNEL 1
-STRINGOP 1
-HHHf 2
-pPpP 2
-narrow 6
-tzset 2
-intunsigned 1
-Hdata 3
-xpdata 1
-HLHH 3
-PufP 1
-dGRnewmodeP 1
-DEBUG 3
-pPpPDT 1
-crtatexit 1
-MISALIGNED 1
-AVXUNALIGNED 2
-KNOWN 1
-GXTUNE 1
-crtbeg 1
-compa 1
-tEHp 1
-AyKI 1
-failure 1
-runtime 1
-ofstack 2
-impVirtualProtect 1
-MHHփ 1
-ALWAYS 1
-initial 5
-INSN 2
-UNDERFLOW 1
-MODIFY 2
-code 1
-USING 2
-dItls 1
-GetLastError 1
-data 76
-HuHH 2
-HSHC 1
-fAMZu 1
-helpers 1
-xiaWinMainCRTStartup 1
-lstartw 1
-DAHB 1
-LRLd 1
-fHYt 1
-AXTUNE 1
-IfAH 1
-Mgfake 1
-aVoP 1
-tACH 1
-time 1
-fHff 1
-fMZuYHcB 1
-wruntime 1
-fprintf 1
-Xdata 2
-frame 3
-HHtt 1
-IHtH 1
-fwrite 3
-bssfile 5
-puaB 1
-HIREGS 1
-ˉCCG 1
-environment 6
-memcpy 1
-impexit 1
-SHLL 1
-aaha 1
-USESAHF 1
-gdllargv 1
-XDZX 1
-rxcz 1
-PHcX 1
-SXTUNE 1
-ANDT 1
-Cmingw 1
-lfile 2
-GetPEImageBase 1
-impLeaveCriticalSection 1
-chkstk 1
-LDDH 1
-matherr 5
-initterm 2
-ident 1
-ILAH 1
-Total 1
-dUnknown 1
-callback 3
-cskey 1
-HHff 1
-VSHHH 1
-DHHÐ 1
-XdHx 1
-FindPESectionByName 1
-PPHf 1
-tAHH 1
-JaPa 1
-ginitenv 1
-HMHH 2
-bytes 1
-ORXX 1
-xlzH 1
-Cmtune 1
-TOVEC 1
-CRTXDAP 1
-aranges 2
-XfHS 1
-IHHÐ 1
-cpxd 1
-bssrdata 3
-ptext 1
-GetSectionForAddress 1
-DOMAIN 1
-istoo 1
-DeleteCriticalSection 2
-pargv 2
-HuHf 1
-HtHB 1
-HсPE 1
-HLLf 1
-USELEAVE 1
-line 4
-crttime 2
-vcclrit 1
-HCc묃 1
-CONVERSIONS 1
-cpmain 1
-Xcexit 1
+This program cannot be run in DOS mode
+text
+data
+rdata
+pdata
+xdata
+idata
+reloc
+ATUWVSH
+ÐVSH
+WVSH
+UAWAVAUATWVSH
+CCG 
+	wTH
+ATUWVSH
+WVSH
+멐VSH
+WVSH
+MZuYHcB
+ t	H
+ATUWVSH
+ATUWVSH
+Hello
+ World
+Argument domain error 
+DOMAIN
+Argument singularity 
+SIGN
+Overflow range error 
+OVERFLOW
+Partial loss of significance 
+PLOSS
+Total loss of significance 
+TLOSS
+The result is too small to be represented 
+UNDERFLOW
+Unknown error
+matherr
+s in 
+retval
+Mingw
+ runtime failure
+Address 
+p has no image
+section
+  VirtualQuery failed for 
+d bytes at address 
+  VirtualProtect failed with code 
+  Unknown pseudo relocation protocol version 
+  Unknown pseudo relocation bit size 
+d bit pseudo relocation at 
+p out of range
+ targeting 
+ yielding the value 
+runtime error 
+posix
+ Built by MinGW
+ project
+DeleteCriticalSection
+EnterCriticalSection
+GetLastError
+InitializeCriticalSection
+LeaveCriticalSection
+SetUnhandledExceptionFilter
+Sleep
+TlsGetValue
+VirtualProtect
+VirtualQuery
+environ
+wenviron
+mode
+calloc
+free
+malloc
+setusermatherr
+specific
+handler
+memcpy
+argc
+argv
+wargv
+cexit
+configure
+narrow
+argv
+configure
+wide
+argv
+quick
+exit
+atexit
+initialize
+narrow
+environment
+initialize
+wide
+environment
+initterm
+type
+invalid
+parameter
+handler
+abort
+exit
+signal
+acrt
+func
+commode
+fmode
+stdio
+common
+vfprintf
+stdio
+common
+vfwprintf
+fwrite
+strlen
+strncmp
+daylight
+timezone
+tzname
+tzset
+KERNEL
+environment
+heap
+math
+private
+runtime
+stdio
+string
+time
+GNU C
+mtune
+core
+march
+nocona 
+ident 
+fPIC 
+fbuilding
+libgcc 
+stack
+protector
+char
+long long unsigned int
+long long int
+short unsigned int
+long int
+unsigned int
+long double
+unsigned char
+double
+float
+long unsigned int
+short int
+tune
+indices
+TUNE
+SCHEDULE
+TUNE
+PARTIAL
+DEPENDENCY
+TUNE
+PARTIAL
+DEPENDENCY
+TUNE
+PARTIAL
+CONVERTS
+DEPENDENCY
+TUNE
+PARTIAL
+CONVERTS
+DEPENDENCY
+TUNE
+DEST
+FALSE
+TUNE
+SPLIT
+REGS
+TUNE
+PARTIAL
+FLAG
+STALL
+TUNE
+MOVX
+TUNE
+MEMORY
+MISMATCH
+STALL
+TUNE
+FUSE
+BRANCH
+TUNE
+FUSE
+BRANCH
+TUNE
+FUSE
+BRANCH
+SOFLAGS
+TUNE
+FUSE
+BRANCH
+TUNE
+ACCUMULATE
+OUTGOING
+ARGS
+TUNE
+PROLOGUE
+USING
+MOVE
+TUNE
+EPILOGUE
+USING
+MOVE
+TUNE
+LEAVE
+TUNE
+PUSH
+MEMORY
+TUNE
+SINGLE
+PUSH
+TUNE
+DOUBLE
+PUSH
+TUNE
+SINGLE
+TUNE
+DOUBLE
+TUNE
+SHORT
+FUNCTION
+TUNE
+RETURNS
+TUNE
+FOUR
+JUMP
+LIMIT
+TUNE
+SOFTWARE
+PREFETCHING
+BENEFICIAL
+TUNE
+STALL
+TUNE
+READ
+MODIFY
+TUNE
+INCDEC
+TUNE
+INTEGER
+DFMODE
+MOVES
+TUNE
+TUNE
+AVOID
+ADDR
+TUNE
+SLOW
+IMUL
+TUNE
+SLOW
+IMUL
+TUNE
+AVOID
+OPND
+CMOVE
+TUNE
+SINGLE
+STRINGOP
+TUNE
+PREFER
+KNOWN
+MOVSB
+STOSB
+TUNE
+MISALIGNED
+MOVE
+STRING
+EPILOGUES
+TUNE
+SAHF
+TUNE
+CLTD
+TUNE
+TUNE
+AVOID
+FALSE
+TUNE
+ADJUST
+UNROLL
+TUNE
+CONV
+INSN
+TUNE
+AVOID
+MFENCE
+TUNE
+EXPAND
+TUNE
+HIMODE
+FIOP
+TUNE
+SIMODE
+FIOP
+TUNE
+FFREEP
+TUNE
+CONSTANTS
+TUNE
+GENERAL
+REGS
+SPILL
+TUNE
+UNALIGNED
+LOAD
+OPTIMAL
+TUNE
+UNALIGNED
+STORE
+OPTIMAL
+TUNE
+PACKED
+SINGLE
+INSN
+OPTIMAL
+TUNE
+TYPELESS
+STORES
+TUNE
+LOAD
+PXOR
+TUNE
+INTER
+UNIT
+MOVES
+TUNE
+INTER
+UNIT
+MOVES
+FROM
+TUNE
+INTER
+UNIT
+CONVERSIONS
+TUNE
+SPLIT
+OPND
+CONVERTS
+TUNE
+VECTOR
+CONVERTS
+TUNE
+VECTOR
+CONVERTS
+TUNE
+SLOW
+PSHUFB
+TUNE
+AVOID
+BYTE
+PREFIXES
+TUNE
+GATHER
+PARTS
+TUNE
+GATHER
+PARTS
+TUNE
+GATHER
+TUNE
+AVOID
+CHAINS
+TUNE
+AVOID
+CHAINS
+TUNE
+REDUCTION
+PREFER
+HADDPD
+TUNE
+UNALIGNED
+LOAD
+OPTIMAL
+TUNE
+UNALIGNED
+STORE
+OPTIMAL
+TUNE
+SPLIT
+REGS
+TUNE
+OPTIMAL
+TUNE
+OPTIMAL
+TUNE
+MOVE
+PIECES
+TUNE
+STORE
+PIECES
+TUNE
+MOVE
+PIECES
+TUNE
+STORE
+PIECES
+TUNE
+DOUBLE
+WITH
+TUNE
+ALWAYS
+FANCY
+MATH
+TUNE
+UNROLL
+STRLEN
+TUNE
+SHIFT
+TUNE
+ZERO
+EXTEND
+WITH
+TUNE
+PROMOTE
+HIMODE
+IMUL
+TUNE
+FAST
+PREFIX
+TUNE
+READ
+MODIFY
+WRITE
+TUNE
+MOVE
+TUNE
+UNPAIRABLE
+TUNE
+PARTIAL
+STALL
+TUNE
+PROMOTE
+QIMODE
+TUNE
+PROMOTE
+REGS
+TUNE
+HIMODE
+MATH
+TUNE
+SPLIT
+LONG
+MOVES
+TUNE
+XCHGB
+TUNE
+TUNE
+VECTORMODE
+TUNE
+AVOID
+VECTOR
+DECODE
+TUNE
+BRANCH
+PREDICTION
+HINTS
+TUNE
+QIMODE
+MATH
+TUNE
+PROMOTE
+REGS
+TUNE
+EMIT
+VZEROUPPER
+TUNE
+LAST
+arch
+indices
+ARCH
+CMOV
+ARCH
+CMPXCHG
+ARCH
+CMPXCHG
+ARCH
+XADD
+ARCH
+BSWAP
+ARCH
+LAST
+signed char
+ unsigned
+Float
+complex 
+Float
+complex float
+complex double
+complex long double
+Float
+complex 
+Float
+
+func
+CTOR
+LIST
+DTOR
+LIST
+uKgg
+libgcc
+config
+cygwin
+mingw
+builds
+ucrt
+posix
+posix
+ucrt
+build
+mingw
+libgcc
+GNU AS 
+mingw
+builds
+ucrt
+posix
+posix
+ucrt
+build
+mingw
+libgcc
+libgcc
+config
+cygwin
+mingw
+builds
+ucrt
+posix
+posix
+ucrt
+build
+mingw
+libgcc
+libgcc
+libgcc
+mingw
+builds
+ucrt
+posix
+posix
+ucrt
+build
+mingw
+libgcc
+libgcc
+libgcc
+config
+libgcc
+ctors
+libgcc
+file
+crtexe
+envp
+argv
+argc
+mainret
+endw
+start
+atexit
+text
+data
+xdata
+pdata
+file
+cygming
+crtbeg
+text
+data
+xdata
+pdata
+file
+test
+main
+text
+data
+rdata
+xdata
+pdata
+file
+gccmain
+main
+text
+data
+xdata
+pdata
+file
+natstart
+text
+data
+file
+wildcard
+text
+data
+file
+dllargv
+setargvP
+text
+data
+xdata
+pdata
+file
+newmode
+text
+data
+file
+tlssup
+text
+data
+xdata
+pdata
+rdata
+XDZX
+XDAP
+XLZH
+file
+xncommod
+text
+data
+file
+cinitexe
+text
+data
+file
+merr
+matherr
+text
+data
+rdata
+xdata
+pdata
+file
+fpreset
+fpreset
+text
+data
+xdata
+pdata
+file
+mingw
+helpers
+text
+data
+file
+pseudo
+reloc
+secs
+text
+data
+rdata
+xdata
+pdata
+file
+usermatherr
+text
+data
+xdata
+pdata
+file
+xtxtmode
+text
+data
+file
+handler
+text
+data
+xdata
+rdata
+pdata
+file
+tlsthrd
+text
+data
+xdata
+pdata
+file
+tlsmcrt
+text
+data
+file
+text
+data
+file
+pesect
+text
+data
+xdata
+pdata
+file
+fake
+text
+data
+file
+libgcc
+text
+data
+file
+mingw
+matherr
+text
+data
+file
+ucrt
+vfprintf
+vfprintf 
+text
+data
+xdata
+pdata
+file
+ucrt
+printf
+printf
+text
+data
+xdata
+pdata
+file
+ucrt
+fprintf
+fprintf
+text
+data
+xdata
+pdata
+file
+initenv
+text
+data
+file
+ucrtbase
+compa
+onexit
+tzset
+tzset
+text
+data
+xdata
+pdata
+rdata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+text
+data
+idata
+idata
+idata
+idata
+file
+fake
+hname
+fthunk
+text
+data
+idata
+idata
+idata
+file
+fake
+text
+data
+idata
+idata
+idata
+file
+cygming
+crtend
+text
+data
+cexit
+tzname
+memcpy
+malloc
+abort
+calloc
+Sleep
+commodep
+signal
+strncmp
+fmode
+newmodeP
+fwrite
+exit
+strlen
+free
+debug
+aranges
+debug
+info
+debug
+abbrev
+debug
+line
+debug
+debug
+line
+mingw
+invalidParameterHandler
+init
+rdata
+refptr
+mingw
+initltsdrot
+force
+rdata
+refptr
+mingw
+initltsdyn
+force
+rdata
+refptr
+mingw
+initltssuo
+force
+rdata
+refptr
+ImageBase
+rdata
+refptr
+mingw
+type
+managedapp
+rdata
+refptr
+fmode
+rdata
+refptr
+commode
+rdata
+refptr
+MINGW
+INSTALL
+DEBUG
+MATHERR
+rdata
+refptr
+matherr
+init
+rdata
+refptr
+newmode
+startinfo
+rdata
+refptr
+dowildcard
+tmainCRTStartup
+rdata
+refptr
+native
+startup
+lock
+rdata
+refptr
+native
+startup
+state
+cctor
+rdata
+refptr
+init
+callback
+rdata
+refptr
+exception
+handler
+rdata
+refptr
+mingw
+oldexcpt
+handler
+rdata
+refptr
+initenv
+rdata
+refptr
+rdata
+refptr
+rdata
+refptr
+rdata
+refptr
+WinMainCRTStartup
+startw
+mainCRTStartup
+XCAA
+XIAA
+register
+frame
+deregister
+frame
+rdata
+global
+dtors
+global
+ctors
+rdata
+refptr
+CTOR
+LIST
+initialized
+dtor
+init
+rdata
+refptr
+tlregdtor
+report
+error
+mark
+section
+writable
+maxSections
+runtime
+relocator
+init
+rdata
+refptr
+RUNTIME
+PSEUDO
+RELOC
+LIST
+rdata
+refptr
+RUNTIME
+PSEUDO
+RELOC
+LIST
+mingw
+raise
+matherr
+stUserMathErr
+mingw
+setusermatherr
+exception
+handler
+mingwthr
+dtors
+part
+mingwthr
+dtor
+list
+mingwthr
+dtor
+mingwthr
+init
+mingwthr
+remove
+dtor
+mingw
+TLScallback
+pseudo
+reloc
+list
+ValidateImageBase
+FindPESection
+FindPESectionByName
+mingw
+GetSectionForAddress
+mingw
+GetSectionCount
+FindPESectionExec
+GetPEImageBase
+IsNonwritableInCurrentImage
+mingw
+enum
+import
+library
+names
+debug
+info
+debug
+abbrev
+debug
+line
+debug
+line
+debug
+aranges
+debug
+local
+winitenv
+local
+initenv
+output
+format
+getmainargs
+wgetmainargs
+quick
+exit
+rdata
+refptr
+mingw
+module
+amsg
+exit
+fwprintf
+rdata
+refptr
+tzset
+initial
+daylight
+initial
+timezone
+initial
+tznames
+initial
+tzname
+initial
+tzname
+register
+frame
+ctor
+text
+startup
+xdata
+startup
+pdata
+startup
+ctors
+RUNTIME
+PSEUDO
+RELOC
+LIST
+daylight
+stdio
+common
+vfwprintf
+abort
+libkernel
+iname
+environ
+data
+start
+DTOR
+LIST
+timezone
+head
+libapi
+private
+SetUnhandledExceptionFilter
+refptr
+mingw
+initltsdrot
+force
+calloc
+fmode
+argc
+tzname
+start
+refptr
+native
+startup
+state
+invalid
+parameter
+handler
+tzset
+GetLastError
+initialize
+wide
+environment
+psrelocs
+start
+characteristics
+size
+stack
+commit
+libapi
+time
+iname
+mingw
+module
+size
+stack
+reserve
+major
+subsystem
+version
+start
+DeleteCriticalSection
+invalid
+parameter
+handler
+refptr
+CTOR
+LIST
+VirtualQuery
+argv
+start
+amsg
+exit
+refptr
+mingw
+module
+refptr
+initenv
+start
+refptr
+matherr
+refptr
+RUNTIME
+PSEUDO
+RELOC
+LIST
+mingw
+oldexcpt
+handler
+TlsGetValue
+start
+specific
+handler
+RUNTIME
+PSEUDO
+RELOC
+LIST
+tzname
+size
+heap
+commit
+stdio
+common
+vfprintf
+GetLastError
+refptr
+dowildcard
+initialize
+narrow
+environment
+mingw
+initltsdrot
+force
+free
+configure
+wide
+argv
+quick
+exit
+libapi
+math
+iname
+environ
+refptr
+mingw
+type
+mingw
+initltssuo
+force
+VirtualProtect
+head
+libapi
+environment
+tzset
+start
+LeaveCriticalSection
+specific
+handler
+refptr
+mingw
+oldexcpt
+handler
+refptr
+RUNTIME
+PSEUDO
+RELOC
+LIST
+fwprintf
+minor
+version
+argv
+libapi
+string
+iname
+EnterCriticalSection
+MINGW
+INSTALL
+DEBUG
+MATHERR
+mode
+refptr
+refptr
+head
+libapi
+math
+section
+alignment
+native
+dllmain
+reason
+libapi
+private
+iname
+used
+head
+libapi
+time
+memcpy
+RUNTIME
+PSEUDO
+RELOC
+LIST
+refptr
+newmode
+data
+fwrite
+CTOR
+LIST
+mode
+head
+libapi
+heap
+getmainargs
+head
+libkernel
+native
+vcclrit
+reason
+refptr
+mingw
+initltssuo
+force
+fmode
+refptr
+native
+startup
+lock
+EnterCriticalSection
+index
+acrt
+func
+native
+startup
+state
+start
+CTOR
+LIST
+refptr
+init
+callback
+signal
+head
+libapi
+string
+refptr
+mingw
+initltsdyn
+force
+psrelocs
+size
+refptr
+ImageBase
+libapi
+runtime
+iname
+wargv
+strlen
+malloc
+refptr
+exception
+handler
+wgetmainargs
+daylight
+file
+alignment
+InitializeCriticalSection
+wenviron
+initialize
+narrow
+environment
+quick
+exit
+InitializeCriticalSection
+exit
+head
+libapi
+stdio
+vfprintf
+major
+version
+mingw
+pcinit
+initenv
+start
+cexit
+stdio
+common
+vfwprintf
+SetUnhandledExceptionFilter
+onexit
+DTOR
+LIST
+type
+Sleep
+LeaveCriticalSection
+setusermatherr
+size
+heap
+reserve
+start
+subsystem
+TlsGetValue
+wenviron
+setusermatherr
+timezone
+refptr
+commode
+fprintf
+configure
+wide
+argv
+mingw
+pcppinit
+commode
+atexit
+libapi
+environment
+iname
+argc
+VirtualProtect
+refptr
+tzset
+VirtualQuery
+initterm
+mingw
+initltsdyn
+force
+dowildcard
+libapi
+stdio
+iname
+init
+callback
+timezone
+libapi
+heap
+iname
+initterm
+strncmp
+refptr
+fmode
+acrt
+func
+major
+image
+version
+loader
+flags
+chkstk
+native
+startup
+lock
+commode
+psrelocs
+minor
+subsystem
+version
+minor
+image
+version
+type
+quick
+exit
+printf
+refptr
+configure
+narrow
+argv
+refptr
+atexit
+refptr
+MINGW
+INSTALL
+DEBUG
+MATHERR
+DeleteCriticalSection
+initialize
+wide
+environment
+configure
+narrow
+argv
+head
+libapi
+runtime
+RUNTIME
+PSEUDO
+RELOC
+LIST
+winitenv
+refptr
+output
+format
+stdio
+common
+vfprintf
+daylight
+wargv
+mingw
+type
