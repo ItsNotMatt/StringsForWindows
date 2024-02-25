@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"strconv"
 	"unicode"
 )
 
@@ -20,18 +21,31 @@ func main() {
     }
     path = filepath.Join(dir, path)
     
+
+    var option string
+    var additionalOptions bool
     var dumpFile *os.File
     var dump bool
     if len(os.Args) > 2 {
-        dumpFile, dump = parseSecondArg(dir, os.Args[2]) 
+        option, additionalOptions = parseOptions(os.Args[2])
+        if !additionalOptions {
+            dumpFile, dump = parseSecondArg(dir, os.Args[2]) 
+            option, additionalOptions = parseOptions(os.Args[4])
+        }
     }
-    
+
     content, err := os.ReadFile(path)
     if err != nil {
         log.Fatal("Error reading file", err)
     }
-
     strings := parseFile(string(content), true)
+
+    if additionalOptions {
+        if option == "-f" {
+            strings = formatStrings(strings)
+        }
+    }
+
 
     if dump {
         for _, str := range strings {
@@ -73,6 +87,28 @@ func parseFile(content string, writeToFile bool) []string {
     return strings
 }
 
+func formatStrings(strings []string) []string {
+    hmap := make(map[string]int)
+    var newStrings []string
+
+    for _, str := range strings {
+        _, ok := hmap[str]
+        if ok {
+            hmap[str]++
+        } else {
+            hmap[str] = 1
+        }
+    }
+
+    for key, value := range hmap {
+        num := strconv.Itoa(value)
+        str := key + " " + num
+        newStrings = append(newStrings, str)
+    }
+    
+    return newStrings
+}
+
 
 func parseFirstArg(arg string) (string, bool) {
     if arg == "help" {
@@ -92,14 +128,17 @@ func parseSecondArg(dir string, arg string) (*os.File, bool) {
             log.Fatal("Error opening file", err)
         }
         defer file.Close()
-
-        //assuming its a filename now
         return file, true
-    } else if arg == "-idkwhatyet" {
-        //dont continue after tick
-        return nil, false
     } else {
         return nil, false
+    }
+}
+
+func parseOptions(arg string) (string, bool) {
+    if arg == "-f" {
+        return arg, true
+    } else {
+        return "", false
     }
 }
 
